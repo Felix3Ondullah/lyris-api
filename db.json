@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "songs": [
+    {
+      "id": 1,
+     "title":  "Wahala",
+      "lyrics":"Soliye, Soli ye ye ye /nProblem e no dey finish, make you try dey enjoy oh/nWahala e no dey finish oh oh, make you try dey enjoy oh/nSay Katakata, wuruwuru e no dey finish, make you try dey enjoy/nProblem e no dey finish, make you try dey enjoy, oya now/nMake we dance like no wahala, eyyah no wahala oh/nMake we dance like no wahala, eyyah no wahala oh/n"
+    },
+    {
+      "id": 2, "title": "Reasons" 
+    },
+    {
+      "id": 3, "title": "Maggie wa nyumbani" 
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "artist": [
+    { 
+      "id": 1, "name": "Ndovu kuu", "songId": 1
+    },
+    { 
+      "id": 2, "name": "Adele", "songId": 1 
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
