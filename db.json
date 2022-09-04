@@ -1,6 +1,9 @@
-{
-      "name" : "Wahala",
-     "artistID" : 1,
-      "id" : 1
-}
-  
+Songs : [
+  {
+      name : "Wahala",
+      artistID : 1,
+      id : 1
+  }
+
+ 
+],
