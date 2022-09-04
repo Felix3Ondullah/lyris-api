@@ -1,23 +1,14 @@
 {
-"Songs" : [
-  {
-      "name" : "Wahala",
-     "artistID" : 1,
-      "id" : 1
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-
- 
-],
-"Artists" : [{
-   "name":"Tiwa savage",
-   "id" : 1
 }
- 
-],
- "Lyrics" :
-  {
-    "songID" : 1,
-    "lyrics": "Soliye, Soli ye ye ye,Problem e nodey/nfinish, make you try dey enjoy oh"
-
-   
-  }
