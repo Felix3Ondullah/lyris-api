@@ -6,18 +6,5 @@
      "artistID" : 1,
       "id" : 1
   }
-
- 
-],
-"Artists" : [{
-   "name":"Tiwa savage",
-   "id" : 1
-}
- 
-],
- "Lyrics" :
-  {
-    "songID" : 1,
-    "lyrics": "Soliye, Soli ye ye ye,Problem e nodey/nfinish, make you try dey enjoy oh"   
-  }
+]
 }
